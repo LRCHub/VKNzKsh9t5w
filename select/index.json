@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ラッキー☆オーブ",
+  "base_artist": "emon(Tes.)、初音ミク",
+  "createdAt": "2026-02-15T04:35:31.368130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon",
+      "has_synced": true,
+      "path": "select/01_ラッキー☆オーブ_emon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ (feat. 初音ミク)",
+      "artist": "emon(Tes.)",
+      "has_synced": true,
+      "path": "select/02_ラッキー☆オーブ_(feat._初音ミク)_emon(Tes.).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon (Tes.)",
+      "has_synced": true,
+      "path": "select/03_ラッキー☆オーブ_emon_(Tes.).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ (2ToneDisco Remix)",
+      "artist": "emon(Tes.) feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_ラッキー☆オーブ_(2ToneDisco_Remix)_emon(Tes.)_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ (3R2 Remix)",
+      "artist": "emon(Tes.) feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_ラッキー☆オーブ_(3R2_Remix)_emon(Tes.)_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon (Tes.)/初音ミク",
+      "has_synced": true,
+      "path": "select/06_ラッキー☆オーブ_emon_(Tes.)_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon(Tes.) feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_ラッキー☆オーブ_emon(Tes.)_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon(Tes.)",
+      "has_synced": true,
+      "path": "select/08_ラッキー☆オーブ_emon(Tes.).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon(Tes.) feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/09_ラッキー☆オーブ_emon(Tes.)_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon(Tes.)",
+      "has_synced": true,
+      "path": "select/10_ラッキー☆オーブ_emon(Tes.).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ - Lucky Orb (feat. Hatsune Miku)",
+      "artist": "Song",
+      "has_synced": false,
+      "path": "select/11_ラッキー☆オーブ_-_Lucky_Orb_(feat._Hatsune_Miku)_Song.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラッキー☆オーブ (feat. 初音ミク)",
+      "artist": "emon(Tes.), Hatsune Miku",
+      "has_synced": true,
+      "path": "select/12_ラッキー☆オーブ_(feat._初音ミク)_emon(Tes.),_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラッキー☆オーブ",
+      "artist": "emon(Tes.)",
+      "has_synced": false,
+      "path": "select/pl_01_ラッキー☆オーブ_emon(Tes.).txt"
+    }
+  ]
+}
